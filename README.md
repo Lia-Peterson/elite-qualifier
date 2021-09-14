@@ -1,6 +1,6 @@
-# Title
+# Engine Building
 
-Simple (or clever and funny?) description
+Subreddits under r/Engine Building 
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This application exists to showcase what is talked about in the reddit community in relation to engine building and design.
 
 ## Install
 
