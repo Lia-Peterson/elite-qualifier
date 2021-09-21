@@ -1,6 +1,6 @@
 # Engine Building
 
-Subreddits under r/Engine Building 
+Discussions under r/Engine Building 
 
 ## Table of Contents
 
